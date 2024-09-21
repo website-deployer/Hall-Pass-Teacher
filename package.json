@@ -1,0 +1,14 @@
+{
+    "name": "teacher-hall-pass",
+    "version": "1.0.0",
+    "description": "Teacher's Hall Pass Dashboard",
+    "main": "api/index.js",
+    "scripts": {
+      "start": "node api/index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "cors": "^2.8.5"
+    }
+  }
+  
